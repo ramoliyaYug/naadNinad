@@ -8,3 +8,7 @@
 
 ## no's
 - cloudfront
+
+## solved things
+- yt to mp3 service will be made in python purely and for that we also need ffmpeg and to deploy that to severless we need docker container with all yt-dlp and ffmpeg and then we will host that to fargate, we will have sqs attached to this with s3 
+
